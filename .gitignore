@@ -73,8 +73,3 @@ dist-ssr
 *.sw?
 
 # Custom User Ignores
-public/
-src/types.ts
-src/constants.ts
-types.ts
-constants.ts

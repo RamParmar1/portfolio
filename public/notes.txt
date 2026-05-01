@@ -1,0 +1,6 @@
+ Put your images into public/images/:
+// - profile-illustration.png
+// - travel-php.png
+// - travel-mern.png
+// - python-projects.png
+// Put resume.pdf in public/ as resume.pdf
