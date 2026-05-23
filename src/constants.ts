@@ -50,7 +50,7 @@ export const PROJECTS: Project[] = [
     features: ['Secure Auth', 'Booking Workflow', 'Inquiry Support', 'Admin Dashboard'],
     tech: ['PHP', 'MySQL', 'HTML', 'CSS', 'JavaScript'],
     repo: 'https://github.com/RamParmar1/journey-junction-PHP',
-    demo: 'https://journeyjunction.kesug.com/'
+    //demo: 'https://journeyjunction.kesug.com/'
   },
   {
     id: 6,
