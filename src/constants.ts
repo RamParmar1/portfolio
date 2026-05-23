@@ -33,6 +33,7 @@ export const PROJECTS: Project[] = [
     features: ['E-Commerce Flow', 'Product Filtering', 'Admin Dashboard', 'User Profiles'],
     tech: ['PHP', 'MySQL', 'HTML', 'CSS', 'JavaScript'],
     repo: 'https://github.com/RamParmar1',
+    demo: 'https://vision.infinityfreeapp.com/login.php',
   },
   {
     id: 4,
@@ -58,6 +59,7 @@ export const PROJECTS: Project[] = [
     features: ['MERN Stack', 'JWT Auth', 'Protected Routes', 'Admin Controls'],
     tech: ['React', 'Node.js', 'Express', 'MongoDB'],
     repo: 'https://github.com/RamParmar1/journey-junction-MERN',
+    demo: 'https://journey-junction-tau.vercel.app/',
   }
 ];
 
